@@ -33,7 +33,7 @@ jobs:
         pip install ipytest
         pip install nbformat
         pip install nbconvert
-        pip install pytest
+        pip install pytest 
         pip install matplotlib
         python LEC01/test.py --notebook-path "LEC01/LEC01.ipynb"
         
